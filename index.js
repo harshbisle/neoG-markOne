@@ -61,4 +61,4 @@ for(var i=0; i<quesList.length; i++) {
 	askQuestion(quesList[i]["q"], quesList[i]["a"]);
 }
 
-console.log(chalk.italic.bold.bgBlue(`Result: Your score is ${score} points!, feel free to connect with me to know more about me and keep learning `));
+console.log(chalk.italic.bold.bgBlue(`Your Final score is ${score} points!, feel free to connect with me to know more about me and keep learning `));
